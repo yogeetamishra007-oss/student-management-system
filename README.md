@@ -1,4 +1,4 @@
-# Student Management System
+# Student Database Management System
 
 A simple and beginner-friendly Python Student Management System demonstrating basic CRUD operations using **SQLite**, wrapped in a clean **Tkinter GUI**.
 
